@@ -33,3 +33,5 @@ A modern and fully-functional URL Shortener web application built with Node.js, 
 ---
 
 ## Demo Video
+
+https://github.com/user-attachments/assets/8b5da5c4-b5cb-4d2c-90df-0b87688c37c2
