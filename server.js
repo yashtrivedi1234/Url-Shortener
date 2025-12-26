@@ -13,7 +13,7 @@ mongoose
   .connect(
     process.env.MONGO_URI,
     {
-      dbName: "Node_js_mastery_course",
+      dbName: "UrlShortner",
     }
   )
   .then(() => console.log("MongoDB connected"))
